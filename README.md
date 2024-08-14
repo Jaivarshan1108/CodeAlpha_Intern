@@ -1,2 +1,2 @@
-# CodeAlpha_Intern
+# CodeAlpha_Internship
 1>> Credit Score 
